@@ -13,9 +13,9 @@ const noMessages = [
     "No",
     "Are you positive? 🤔",
     "Slaima please... 🥺",
-    "If you say no, I will be really sad...",
+    "Ya khraaaaa...",
     "I will be very sad... 😢",
-    "Please??? 💔",
+    "ty aaya aaad??? 💔",
     "Don't do this to me...",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
